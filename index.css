@@ -3,3 +3,6 @@ div{
     height: 100px;
     background: #000;
 }
+span{
+    display: block;
+}
